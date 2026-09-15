@@ -10,6 +10,9 @@ Ingeniero de sistemas. Construyo **automatizaciones, dashboards y herramientas w
 
 **Proyectos destacados**
 - [`censo`](https://github.com/crearbots/censo) — seguimiento operativo + informe semanal para WhatsApp
-- [`WhatsApp-Mensajes-Personalizados-Web`](https://github.com/crearbots/WhatsApp-Mensajes-Personalizados-Web) — automatización WhatsApp personalizada (*en evolución*)
+- [`whatsapp-envios`](https://github.com/crearbots/whatsapp-envios) — envíos personalizados de WhatsApp desde Excel (*MVP interno*)
+- [`tokio-ui`](https://github.com/crearbots/tokio-ui) — UI holográfica 3D compañera de voz (*fase 1*)
+
+**Portafolio:** [crearbots.github.io/portafolio](https://crearbots.github.io/portafolio/)
 
 **Disponible para proyectos freelance** · Colombia (UTC−5)
